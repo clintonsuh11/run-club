@@ -28,7 +28,7 @@ function doPost(e) {
       data.email || '',
       data.social || '',
       data.member || '',
-      data.event || 'Run Club · Soho House Tokyo x Adherence Studio (June 7)',
+      data.event || 'Run Club · Soho House Tokyo x Adherence Studio (July 19)',
       data.userAgent || ''
     ]);
 
